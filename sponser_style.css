@@ -1,0 +1,132 @@
+.section-width {
+  margin: auto;
+  width: 846px;
+}.panel-header {
+  color: white;
+  font-size: 25px;
+  margin: 16px 0;
+  text-align: center;
+  width: 100%;
+}.section_contant {
+  background-image: linear-gradient(0deg, rgb(3, 92, 160), rgb(3,64,109));
+  width: 100%;
+}.comvita-panel {
+  background: rgba(0, 0, 0, 0.29) none repeat scroll 0 0;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.19);
+  float: left;
+  margin: 10px;
+  min-height: 721px;
+  padding: 16px;
+  width: 271px;
+}.vertical- p {
+  display: table-cell;
+  font-size: 21px;
+  line-height: 29px;
+  padding: 78px;
+  text-align: center;
+  vertical-align: middle;
+}.vertical- {
+  display: table;
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}.section_container {
+  width: 90%;
+  margin: auto;
+  padding: 68px;
+}.section_contant {
+  background-image: linear-gradient(0deg, rgb(0, 66, 122), rgb(3, 64, 255));
+  padding: 100px 0;
+  width: 100%;
+}.orange {
+  background: rgb(255, 168, 0) none repeat scroll 0 0;
+  border: 0 none;
+  font-size: 26px;
+  font-style: italic;
+  height: 100px;
+  padding: 0 46px;
+  text-align: center;
+}.sponsirship-button {
+  width: 100%;
+  text-align: center;
+}.para {
+  font-size: 25px;
+  line-height: 30px;
+  text-align: center;
+  margin: 30px 0;
+}.partner-header {
+  background: rgb(3, 92, 160) none repeat scroll 0 0;
+  color: white;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  padding: 25px;
+  text-align: center;
+  width: 100%;
+}.section_container h3 {
+  text-align: center;
+}.panel-text {
+  color: rgba(255, 255, 255, 0.77);
+  font-size: 21px;
+  line-height: 28px;
+  margin-top: 32px;
+  text-align: left;
+}
+.comvita-wrapper.continer-fluid {
+  margin: auto;
+  max-width: 1600px;
+}
+@media only screen and (max-width: 905px){
+	.section-width {
+  margin: auto;
+  width: 100%;
+}
+}
+@media only screen and (max-width: 767px){
+	.vertical-  {
+		
+		position:relative;
+		
+	}
+	
+}
+@media only screen and (max-width: 841px){
+	.comvita-panel {
+	
+	width: calc(44%);
+}
+}
+@media only screen and (max-width: 987px){
+		.vertical- p {
+		
+		font-size: 16px;
+		
+		padding: 58px;
+		
+	}
+}
+@media only screen and (max-width:659px){
+	
+.comvita-panel {
+  background: rgba(0, 0, 0, 0.29) none repeat scroll 0 0;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.19);
+  float: left;
+  margin: 10px;
+  min-height: 721px;
+  padding: 16px;
+  width: 46%;
+  float: left;
+}
+@media only screen and (max-width:469px){
+.comvita-panel {
+  background: rgba(0, 0, 0, 0.29) none repeat scroll 0 0;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.19);
+  float: none;
+  min-height: 721px;
+  padding: 16px;
+  width: 85%;
+  margin: 10px auto;
+}	
+}
+
+}
